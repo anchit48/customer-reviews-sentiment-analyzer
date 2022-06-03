@@ -38,14 +38,14 @@
   - Model can make wrong predictions as:
 
    1. Predicting a Review/Feedback being Negative, but in reality it is Positive. 
-   2. Predicting a Review/Feednack being Positive, but in actuality it is Negative
+   2. Predicting a Review/Feedback being Positive, but in actuality it is Negative
 
   - Which case is more important? 
     * Both the cases are important as:
 
-    * If a positive Feedback is termed as Negative, it's a lot of resource. False Positive
+    * If a positive Feedback is termed as Negative, it's a loss of resource. False Positive
 
-    * If a Negative Feedback is termed as Positive, it's a lot of opportunity which in turn will result high Churn Rate. False Negative 
+    * If a Negative Feedback is termed as Positive, it's a loss of opportunity which in turn will result high Churn Rate. False Negative 
 
 
 
@@ -55,6 +55,6 @@
      - Build the classification model.
        - Traditional Supervised Approach
        - Transfer Learning Methods
-      - Fine Tuning Transfer Learning
+       - Fine Tuning Transfer Learning
 
 - Tune & Evaluate the Model performance.
