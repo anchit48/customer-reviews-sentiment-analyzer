@@ -1,4 +1,4 @@
-# **Project Description:Customer Feedback Sentiment Analysis**
+# **Project Description:Customer Feedback Sentiment Analysis & Prediction**
  
 # **Data Description**:
 
@@ -23,5 +23,7 @@
     - Tf-idf
 - Build the classification model.
     - Traditional Supervised Approach
+    - Transfer Learning Methods
+    - Fine Tuning Transfer Learning
 
 - Tune & Evaluate the Model performance.
