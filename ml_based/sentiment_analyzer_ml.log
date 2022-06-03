@@ -1,0 +1,152 @@
+2022-06-03 00:12:02 INFO     (3825, 2)
+2022-06-03 00:12:02 INFO     review    1
+label     0
+dtype: int64
+2022-06-03 00:12:30 INFO     0.041666666666666664
+2022-06-03 00:12:30 INFO     F1-Score 0.0
+2022-06-03 00:12:30 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      1.00      0.99      1122
+    negative       0.00      0.00      0.00        26
+
+    accuracy                           0.97      1148
+   macro avg       0.49      0.50      0.49      1148
+weighted avg       0.96      0.97      0.96      1148
+
+2022-06-03 00:12:35 INFO     0.9701198431477025
+2022-06-03 00:12:35 INFO     F1-Score 0.10909090909090909
+2022-06-03 00:12:35 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.98      0.98      1122
+    negative       0.10      0.12      0.11        26
+
+    accuracy                           0.96      1148
+   macro avg       0.54      0.55      0.54      1148
+weighted avg       0.96      0.96      0.96      1148
+
+2022-06-03 00:13:33 INFO     F1-Score 0.025078369905956112
+2022-06-03 00:13:33 INFO                   precision    recall  f1-score   support
+
+    positive       0.97      0.74      0.84      1122
+    negative       0.01      0.15      0.03        26
+
+    accuracy                           0.73      1148
+   macro avg       0.49      0.45      0.43      1148
+weighted avg       0.95      0.73      0.82      1148
+
+2022-06-03 00:14:28 INFO     F1-Score 0.02395209580838324
+2022-06-03 00:14:28 INFO                   precision    recall  f1-score   support
+
+    positive       0.97      0.73      0.83      1122
+    negative       0.01      0.15      0.02        26
+
+    accuracy                           0.72      1148
+   macro avg       0.49      0.44      0.43      1148
+weighted avg       0.95      0.72      0.82      1148
+
+2022-06-03 00:14:28 INFO     accuracy of MultinomialNB()0.9111498257839721
+2022-06-03 00:14:28 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.93      0.95      1122
+    negative       0.04      0.12      0.06        26
+
+    accuracy                           0.91      1148
+   macro avg       0.51      0.52      0.50      1148
+weighted avg       0.96      0.91      0.93      1148
+
+2022-06-03 00:14:43 INFO     accuracy of LogisticRegression(C=100000.0, n_jobs=-1)0.9486062717770035
+2022-06-03 00:14:43 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.97      0.97      1122
+    negative       0.12      0.19      0.14        26
+
+    accuracy                           0.95      1148
+   macro avg       0.55      0.58      0.56      1148
+weighted avg       0.96      0.95      0.95      1148
+
+2022-06-03 00:14:43 INFO     accuracy of SGDClassifier(alpha=0.001, max_iter=5, random_state=42, tol=None)0.926829268292683
+2022-06-03 00:14:43 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.94      0.96      1122
+    negative       0.06      0.15      0.09        26
+
+    accuracy                           0.93      1148
+   macro avg       0.52      0.55      0.52      1148
+weighted avg       0.96      0.93      0.94      1148
+
+2022-06-03 00:16:38 INFO     (3825, 2)
+2022-06-03 00:16:38 INFO     review    1
+label     0
+dtype: int64
+2022-06-03 00:17:04 INFO     0.09285714285714286
+2022-06-03 00:17:04 INFO     F1-Score 0.0
+2022-06-03 00:17:04 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      1.00      0.99      1122
+    negative       0.00      0.00      0.00        26
+
+    accuracy                           0.98      1148
+   macro avg       0.49      0.50      0.49      1148
+weighted avg       0.96      0.98      0.97      1148
+
+2022-06-03 00:17:10 INFO     0.9704016029027057
+2022-06-03 00:17:10 INFO     F1-Score 0.07547169811320754
+2022-06-03 00:17:10 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.98      0.98      1122
+    negative       0.07      0.08      0.08        26
+
+    accuracy                           0.96      1148
+   macro avg       0.53      0.53      0.53      1148
+weighted avg       0.96      0.96      0.96      1148
+
+2022-06-03 00:18:12 INFO     F1-Score 0.030864197530864196
+2022-06-03 00:18:12 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.74      0.84      1122
+    negative       0.02      0.19      0.03        26
+
+    accuracy                           0.73      1148
+   macro avg       0.50      0.47      0.44      1148
+weighted avg       0.95      0.73      0.82      1148
+
+2022-06-03 00:19:05 INFO     F1-Score 0.024024024024024024
+2022-06-03 00:19:05 INFO                   precision    recall  f1-score   support
+
+    positive       0.97      0.73      0.83      1122
+    negative       0.01      0.15      0.02        26
+
+    accuracy                           0.72      1148
+   macro avg       0.49      0.44      0.43      1148
+weighted avg       0.95      0.72      0.82      1148
+
+2022-06-03 00:19:06 INFO     F1-ScoreMultinomialNB()0.05555555555555555
+2022-06-03 00:19:06 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.93      0.95      1122
+    negative       0.04      0.12      0.06        26
+
+    accuracy                           0.91      1148
+   macro avg       0.51      0.52      0.50      1148
+weighted avg       0.96      0.91      0.93      1148
+
+2022-06-03 00:19:21 INFO     F1-ScoreLogisticRegression(C=100000.0, n_jobs=-1)0.14492753623188406
+2022-06-03 00:19:21 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.97      0.97      1122
+    negative       0.12      0.19      0.14        26
+
+    accuracy                           0.95      1148
+   macro avg       0.55      0.58      0.56      1148
+weighted avg       0.96      0.95      0.95      1148
+
+2022-06-03 00:19:21 INFO     F1-ScoreSGDClassifier(alpha=0.001, max_iter=5, random_state=42, tol=None)0.08695652173913043
+2022-06-03 00:19:21 INFO                   precision    recall  f1-score   support
+
+    positive       0.98      0.94      0.96      1122
+    negative       0.06      0.15      0.09        26
+
+    accuracy                           0.93      1148
+   macro avg       0.52      0.55      0.52      1148
+weighted avg       0.96      0.93      0.94      1148
+
